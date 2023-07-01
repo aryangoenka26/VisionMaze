@@ -43,5 +43,6 @@ Start the server
 
 
 ## Note
-To close any image or to exit any path finding process midway press “q” on keyboard.
+• While closing any image by pressing a key, make sure that the image window is in focus.\
+• To close any image or to exit any path finding process midway press “q” on keyboard.
 
