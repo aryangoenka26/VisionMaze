@@ -1,0 +1,9 @@
+MAZE/MAP,ALGORITHM,PATH LENGTH (in pixels),TIME TAKEN (in s)
+Maze,Best-First search,30,0.1833504000000019
+Maze,Best-First search,30,0.1374581999999993
+Map 2,Best-First search,202,5.0511567
+Map 2,Best-First search,306,5.084002099999999
+Map 2,Best-First search,1369,4.940157599999999
+Map 2,Best-First search,193,5.221180200000001
+Map 2,Best-First search,1369,4.992967500000001
+Map 1,Best-First search,1013,3.6958547999999993
