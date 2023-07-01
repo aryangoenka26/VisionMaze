@@ -1,7 +1,7 @@
 
 # VisionMaze
 
-VisionMaze is a maze-solving application developed in Python, utilizing the power of numpy and OpenCV packages. The project aims to generate mazes and deploy various path-finding algorithms to find the shortest path from a given starting point to a destination within the maze or another map's image.
+VisionMaze is a maze-solving application developed in Python, utilizing the power of NumPy and OpenCV packages. The project aims to generate mazes and deploy various path-finding algorithms to find the shortest path from a given starting point to a destination within the maze or another map's image.
 
 ## Features
 
@@ -12,8 +12,8 @@ VisionMaze is a maze-solving application developed in Python, utilizing the powe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Best-first search (Greedy)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Dijkstra's algorithm\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• A* algorithm\
-• Maintain a log of the path length and execution time for each algorithm.\
-• Visualize the path-finding algorithms and path found by them using OpenCV.
+• Maintain a log of the path length and execution time for each algorithm in 'logs.csv'.\
+• Visualize the path-finding algorithms and the path found by them using OpenCV.
 
 ## Run Locally
 
@@ -43,6 +43,6 @@ Start the server
 
 
 ## Note
-• While closing any image by pressing a key, make sure that the image window is in focus.\
-• To close any image or to exit any path finding process midway press “q” on keyboard.
+• While closing any image by pressing a key, ensure that the image window is in focus.\
+• To close any image or to exit any path-finding process midway press “q” on the keyboard.
 
