@@ -1,7 +1,7 @@
 
 # VisionMaze
 
-VisionMaze is a maze-solving application developed in Python, utilizing the power of NumPy and OpenCV packages. The project aims to generate mazes and deploy various path-finding algorithms to find the shortest path from a given starting point to a destination within the maze or another map's image.
+VisionMaze is a maze-solving application developed in Python, utilizing the power of NumPy and OpenCV packages. The project aims to generate mazes and deploy various path-finding algorithms to find the shortest path from a given starting point to a destination within the maze or between any two points on another map's image.
 
 ## Features
 
